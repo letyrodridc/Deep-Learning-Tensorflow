@@ -6,7 +6,7 @@ Each code has the credits to the authors.
 
 ### Notebooks included
 
-#### 6_Binary_classification_with_ImageDataGenerator_Human_vs_Hourses
+#### 6_Binary_classification_with_ImageDataGenerator_Human_vs_Horses
 This notebook shows how to download a dataset and create an ImageDataGenerator for reading the images and labels. It's doing a binary classification in Keras-Tensorflow. 
 The optimizer used is RMSProp.
 
